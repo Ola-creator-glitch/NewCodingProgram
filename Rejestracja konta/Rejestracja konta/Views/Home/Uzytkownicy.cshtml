@@ -1,0 +1,31 @@
+﻿@model List<ApplicationUserModel>
+
+<h1>Lista użytkowników</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th>Imię</th>
+            <th>Nazwisko</th>
+            <th>PESEL</th>
+            <th>E-mail</th>
+            <th>Telefon</th>
+            <th>Wiek</th>
+            <th>Średnie zużycie prądu</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var uzytkownik in Model)
+        {
+            <tr>
+                <td>@uzytkownik.Imie</td>
+                <td>@uzytkownik.Nazwisko</td>
+                <td>@uzytkownik.Pesel</td>
+                <td>@uzytkownik.Email</td>
+                <td>@uzytkownik.Telefon</td>
+                <td>@uzytkownik.Wiek</td>
+                <td>@uzytkownik.SrednieZuzyciePradu</td>
+            </tr>
+        }
+    </tbody>
+</table>
