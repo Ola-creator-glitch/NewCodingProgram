@@ -79,3 +79,85 @@ C:\Users\olaba\OneDrive\Pulpit\staż\Rejestracja konta\Rejestracja konta\bin\Deb
 C:\Users\olaba\OneDrive\Pulpit\staż\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\olaba\OneDrive\Pulpit\staż\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\olaba\OneDrive\Pulpit\staż\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\appsettings.json
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\Rejestracja konta.staticwebassets.runtime.json
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\Rejestracja konta.exe
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\Rejestracja konta.deps.json
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\Rejestracja konta.runtimeconfig.json
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\Rejestracja konta.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\Rejestracja konta.pdb
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\Google.Authenticator.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\Microsoft.Azure.SqlDatabase.ElasticScale.Client.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\QRCoder.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\obj\Debug\net6.0\Rejestracja konta.csproj.AssemblyReference.cache
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\obj\Debug\net6.0\Rejestracja konta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\obj\Debug\net6.0\Rejestracja konta.AssemblyInfoInputs.cache
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\obj\Debug\net6.0\Rejestracja konta.AssemblyInfo.cs
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\obj\Debug\net6.0\Rejestracja konta.csproj.CoreCompileInputs.cache
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\obj\Debug\net6.0\Rejestracja konta.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\obj\Debug\net6.0\Rejestracja konta.RazorAssemblyInfo.cache
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\obj\Debug\net6.0\Rejestracja konta.RazorAssemblyInfo.cs
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\obj\Debug\net6.0\staticwebassets\msbuild.Rejestracja konta.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\obj\Debug\net6.0\staticwebassets\msbuild.build.Rejestracja konta.props
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Rejestracja konta.props
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Rejestracja konta.props
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\obj\Debug\net6.0\scopedcss\bundle\Rejestracja konta.styles.css
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\obj\Debug\net6.0\scopedcss\projectbundle\Rejestracja konta.bundle.scp.css
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\obj\Debug\net6.0\Rejestracja konta.csproj.CopyComplete
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\obj\Debug\net6.0\Rejestracja konta.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\obj\Debug\net6.0\refint\Rejestracja konta.dll
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\obj\Debug\net6.0\Rejestracja konta.pdb
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\obj\Debug\net6.0\Rejestracja konta.genruntimeconfig.cache
+C:\Users\olaba\OneDrive\Pulpit\staż2\Rejestracja konta\Rejestracja konta\obj\Debug\net6.0\ref\Rejestracja konta.dll

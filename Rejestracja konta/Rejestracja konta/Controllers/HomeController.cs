@@ -1,4 +1,5 @@
 ﻿using Google.Authenticator;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System;
@@ -10,10 +11,12 @@ using System.Text;
 public class HomeController : Controller
 {
     private readonly DatabaseContext _dbContext;
+    private readonly IHttpContextAccessor _httpContextAccessor;
 
-    public HomeController(DatabaseContext dbContext)
+    public HomeController(DatabaseContext dbContext, IHttpContextAccessor httpContextAccessor)
     {
         _dbContext = dbContext;
+        _httpContextAccessor = httpContextAccessor;
     }
 
     public IActionResult Index()
@@ -50,6 +53,36 @@ public class HomeController : Controller
     {
         List<ApplicationUserModel> ApplicationUsers = _dbContext.ApplicationUsers.ToList();
         return View(ApplicationUsers);
+    }
+
+    public IActionResult Logowanie()
+    {
+        return View();
+    }
+
+    [HttpPost]
+    public IActionResult Logowanie(ApplicationUserModel model)
+    {
+        var user = _dbContext.ApplicationUsers.FirstOrDefault(u => u.Email == model.Email);
+
+        if (user != null)
+        {
+            var hashedPassword = HashPassword(model.Haslo, user.Sol);
+            if (user.Haslo == hashedPassword)
+            {
+                _httpContextAccessor.HttpContext.Session.SetString("UserId", user.Id.ToString());
+                return RedirectToAction("ListaUzytkownikow");
+            }
+        }
+
+        ModelState.AddModelError("", "Nieprawidłowe dane logowania");
+        return View(model);
+    }
+
+    public IActionResult Wyloguj()
+    {
+        _httpContextAccessor.HttpContext.Session.Clear();
+        return RedirectToAction("Index");
     }
 
     private string GenerateSalt()

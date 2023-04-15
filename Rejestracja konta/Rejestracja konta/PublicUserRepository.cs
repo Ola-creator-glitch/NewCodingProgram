@@ -57,4 +57,8 @@ namespace Rejestracja_konta.Services
             throw new NotImplementedException();
         }
     }
+
+    public class PublicUser
+    {
+    }
 }

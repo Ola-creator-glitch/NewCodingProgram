@@ -4,6 +4,8 @@ using System.Text;
 
 public class ApplicationUserModel
 {
+    public int Id { get; set; }
+
     [Required(ErrorMessage = "Imię jest wymagane")]
     public string Imie { get; set; }
 

@@ -1,0 +1,68 @@
+﻿@model Rejestracja_konta.Models.PublicUser
+
+<h2>Czy na pewno chcesz usunąć użytkownika?</h2>
+
+<div>
+    <h4>Imię i nazwisko:</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            Imię:
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Imie)
+        </dd>
+        <dt class="col-sm-2">
+            Nazwisko:
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Nazwisko)
+        </dd>
+    </dl>
+    <h4>Informacje kontaktowe:</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            PESEL:
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Pesel)
+        </dd>
+        <dt class="col-sm-2">
+            E-mail:
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+        <dt class="col-sm-2">
+            Telefon:
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Telefon)
+        </dd>
+    </dl>
+    <h4>Dodatkowe informacje:</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            Wiek:
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Wiek)
+        </dd>
+        <dt class="col-sm-2">
+            Średnie zużycie prądu:
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.SrednieZuzyciePradu)
+        </dd>
+    </dl>
+</div>
+
+@using (Html.BeginForm("DeleteConfirmed", "User", new { id = Model.Id }, FormMethod.Post))
+{
+    <div class="form-group">
+        <input type="submit" value="Usuń" class="btn btn-danger" />
+        <a href="@Url.Action("Index", "User")" class="btn btn-secondary">Anuluj</a>
+    </div>
+}

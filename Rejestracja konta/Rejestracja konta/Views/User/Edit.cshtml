@@ -1,0 +1,66 @@
+﻿@model ApplicationUserModel
+
+<h2>Edycja użytkownika</h2>
+
+@if (ViewBag.Error != null)
+{
+    <div class="alert alert-danger">@ViewBag.Error</div>
+}
+
+@using (Html.BeginForm("Edit", "Home", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Imie)
+        @Html.TextBoxFor(m => m.Imie, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Imie)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Nazwisko)
+        @Html.TextBoxFor(m => m.Nazwisko, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Nazwisko)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Pesel)
+        @Html.TextBoxFor(m => m.Pesel, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Pesel)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Email)
+        @Html.TextBoxFor(m => m.Email, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Email)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Telefon)
+        @Html.TextBoxFor(m => m.Telefon, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Telefon)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Wiek)
+        @Html.TextBoxFor(m => m.Wiek, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Wiek)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.SrednieZuzyciePradu)
+        @Html.TextBoxFor(m => m.SrednieZuzyciePradu, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.SrednieZuzyciePradu)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Haslo)
+        @Html.PasswordFor(m => m.Haslo, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Haslo)
+    </div>
+
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary">Zapisz</button>
+    </div>
+}
+

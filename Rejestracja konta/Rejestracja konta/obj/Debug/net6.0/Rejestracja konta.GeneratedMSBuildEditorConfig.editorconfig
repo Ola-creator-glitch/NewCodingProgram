@@ -20,8 +20,16 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/olaba/OneDrive/Pulpit/staż2/Rejestracja konta/Rejestracja konta/Views/Home/NewIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxOZXdJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/olaba/OneDrive/Pulpit/staż2/Rejestracja konta/Rejestracja konta/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/olaba/OneDrive/Pulpit/staż2/Rejestracja konta/Rejestracja konta/Views/Home/Rejestracja.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWplc3RyYWNqYS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/olaba/OneDrive/Pulpit/staż2/Rejestracja konta/Rejestracja konta/Views/Shared/Error.cshtml]
@@ -30,6 +38,18 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/olaba/OneDrive/Pulpit/staż2/Rejestracja konta/Rejestracja konta/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/olaba/OneDrive/Pulpit/staż2/Rejestracja konta/Rejestracja konta/Views/User/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/olaba/OneDrive/Pulpit/staż2/Rejestracja konta/Rejestracja konta/Views/User/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/olaba/OneDrive/Pulpit/staż2/Rejestracja konta/Rejestracja konta/Views/User/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/olaba/OneDrive/Pulpit/staż2/Rejestracja konta/Rejestracja konta/Views/_ViewImports.cshtml]
